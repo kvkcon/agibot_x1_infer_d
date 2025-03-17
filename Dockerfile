@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
     wget \
     libprotobuf-dev \
     protobuf-compiler \
-    software-properties-common
+    software-properties-common \
     lsb-release \
     gnupg2 \
     libssl-dev \
